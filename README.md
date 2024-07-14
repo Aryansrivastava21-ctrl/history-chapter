@@ -325,14 +325,14 @@ beings of this period left behind.</h6></center>
 
 
 
-<h2 align=""<button><mark>Made By Ansh Srivastava</mark> <button> <a  href="https://www.instagram.com/anshsrivastava589?igsh=dDI5Z3VpNjQ3M3pr"> : </a>
+<h2><button><mark>Made By Ansh Srivastava</mark> <button> <a  href="https://www.instagram.com/anshsrivastava589?igsh=dDI5Z3VpNjQ3M3pr"> : </a>
 </button>
  </button></h2>
 
 <center><a href="https://www.instagram.com/anshsrivastava589?igsh=dDI5Z3VpNjQ3M3pr"
 > <h6>Instagram </h6> </a></center>
 
-<center><a  href="https://www.snapchat.com/add/it_ansh21?share_id=yOhry2oVI98&locale=en-US"> <h6>Snapchat</h6> </label> </a></center>
+<center><a  href="https://www.snapchat.com/add/it_ansh21?share_id=yOhry2oVI98&locale=en-US"> <h6>Snapchat</h6> </a></center>
 
 <center> <a href="mailto:anshlala4@gmail.com"><h6>  Gmail</h6> </a></center>
 
