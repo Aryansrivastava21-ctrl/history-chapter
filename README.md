@@ -91,5 +91,4 @@ than looking a room at Srivastava' BnB</h6></p>
 
 <p> email:<a href="mailto:anshlala4@gmail.com">anshlala4@gmail.com </a></p>
 <p><a href="mailto:anshlala4@gmail.com"> anshlala4@gmail.com</a></p>
-
-
+ 
