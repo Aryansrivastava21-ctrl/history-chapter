@@ -6,7 +6,7 @@
 
 
 <h4>THE</h4>
- <h6><p>  distant past when there was no paper or language
+ <h6>  distant past when there was no paper or language
 or the written word, and hence no books or <br></h6>
 
 <img width="370" height="495" align="right" src="https://as1.ftcdn.net/v2/jpg/00/95/41/12/1000_F_95411298_zEUcXlqtowRmpib1OO0rKgbpE1ulZRSO.jpg">
@@ -144,7 +144,7 @@ successive periods. But we will confine
 
 ourselves here only to the first three phases.
 </h6>
-<img height="250" align="right" width="300" src="https://swarajya.gumlet.io/swarajya/2018-08/d7bece04-afb6-425e-a3a4-aea2bae32037/4fc3c7e3_45f9_4a8e_b97b_d6693e410c25.jpg?w=640&q=75&auto=format,compress&format=webp">
+<img align="right" height="250" width="300" src="https://swarajya.gumlet.io/swarajya/2018-08/d7bece04-afb6-425e-a3a4-aea2bae32037/4fc3c7e3_45f9_4a8e_b97b_d6693e410c25.jpg?w=640&q=75&auto=format,compress&format=webp">
 
 <mark> Upper </mark>
  <mark> Palaeolithic</mark>
@@ -280,7 +280,7 @@ animals difficult to find or kill.
 </h6></button>
 <br>
 <hr>
-<center><h6> <mark> Hunting Scene </mark></h5></center>
+<center><h6> <mark> Hunting Scene </mark></h6></center>
 <center><img height="450" width="500" " src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAwAToQJ-J1VSALRcSiLmcntGTDHpUMLxNzA&s"></center>
 <center><h6> Hunting scenes predominate in Mesolithic paintings. This is one such scene
 where a group of people are shown hunting a bison.  Some injured men are
@@ -290,7 +290,7 @@ skill of drawing these forms.</h6></center>
 <br>
 <hr>
 
-<center><h6> <mark> Dancing Scene </mark></h5></center>
+<center><h6> <mark> Dancing Scene </mark></h6></center>
  <center><img width="500" height="450" src="https://thoroughknowledge.wordpress.com/wp-content/uploads/2013/06/bhimbetka-white-dancers.jpg"></center>
 <center><h6> In this picture hand-linked figures in dancing mode are shown. In fact, this is a
 recurrent theme. It also recalls the dancing scene from the Lakhudiyar rock
