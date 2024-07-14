@@ -258,7 +258,7 @@ of paintings might have given man a sense of power over
 the animals he would meet in the open.</h6>
 
 
-<button <h6>  This practice is common among primitive people of
+<button> <h6>  This practice is common among primitive people of
 today also.<br> They engrave or paint on rocks as part of
 the rituals they<br> perform at birth, at death, at coming
 of age and at the time of marriage.<br> They dance,
@@ -267,7 +267,7 @@ animals difficult to find or kill.
 </h6></button>
 <br>
 <hr>
-<center><h6> <mark> Hunting Scene </mark></h6></center>
+<center><h6> <mark> Hunting Scene </mark> </h6></center>
 <center><img height="450" width="500" " src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAwAToQJ-J1VSALRcSiLmcntGTDHpUMLxNzA&s"></center>
 <center><h6> Hunting scenes predominate in Mesolithic paintings. This is one such scene
 where a group of people are shown hunting a bison.  Some injured men are
@@ -279,6 +279,7 @@ skill of drawing these forms.</h6></center>
 
 <center><h6> <mark> Dancing Scene </mark></h6></center>
  <center><img width="500" height="450" src="https://thoroughknowledge.wordpress.com/wp-content/uploads/2013/06/bhimbetka-white-dancers.jpg"></center>
+ 
 <center><h6> In this picture hand-linked figures in dancing mode are shown. In fact, this is a
 recurrent theme. It also recalls the dancing scene from the Lakhudiyar rock
 painting found in Uttarakhand.</h6></center>
