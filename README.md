@@ -117,31 +117,18 @@ to study<br> these paintings.</h6>
 <br>
 <hr>
 <br>
-<br>
 <h6>The themes of paintings found here are of great variety,
-
 ranging from mundane events of daily life in those times to
-
 sacred and royal images. These include hunting, dancing,
-
 music, horse and elephant riders, animal fighting, honey
-
 collection, decoration of bodies, and other household scenes.
-
 The rock art of Bhimbetka has been classified into
-
 various groups on the bases of style, technique and
-
 superimposition. The drawings and paintings can be
-
 catagorised into seven historical periods. Period I, Upper
-
 Palaeolithic; Period II, Mesolithic; and Period III,
-
 Chalcolithic. After Period III there are four
-
 successive periods. But we will confine
-
 ourselves here only to the first three phases.
 </h6>
 <img align="right" height="250" width="300" src="https://swarajya.gumlet.io/swarajya/2018-08/d7bece04-afb6-425e-a3a4-aea2bae32037/4fc3c7e3_45f9_4a8e_b97b_d6693e410c25.jpg?w=640&q=75&auto=format,compress&format=webp">
