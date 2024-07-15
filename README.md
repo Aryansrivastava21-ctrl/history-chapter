@@ -39,10 +39,10 @@ Age or the Palaeolithic Age
 <h6><p>Prehistoric paintings have been found in many parts of
 the world. We do not really know if the<br> Lower Palaeolithic people
 ever produced any art objects. But by the Upper Palaeolithic
-times we <br>see a proliferation of artistic activities. Around
-the world the walls of many caves of this time are <br>full of
+times we see a proliferation of artistic activities. Around
+the world the walls of many caves of this time are full of
 finely carved and painted pictures of animals which the
-cave-dwellers hunted. The subjects<br> of their drawings were
+cave-dwellers hunted. The subjects of their drawings were
 human figures, human activities, geometric designs and
 animal symbols.<br> In India the earliest paintings have been
 reported from the Upper Palaeolithic times</p></h6>
@@ -214,12 +214,12 @@ called chalcedony. White might have been.</h6>
 was first ground into a powder. This may
 then have been mixed with water and also
 with some thick or sticky substance such
-as animal fat or gum or resin<br> from trees.
+as animal fat or gum or resin from trees.
 Brushes were made of plant fibre. What is
 amazing is that these colours have survived
-thousands <br>of years of adverse weather
+thousands of years of adverse weather
 conditions. It is believed that the colours
-have remained intact because of the<br></h6>
+have remained intact because of the</h6>
 
 <h6>The artists here made their paintings on the walls and
 ceilings of the rock shelters. Some of the paintings are
