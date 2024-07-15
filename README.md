@@ -87,14 +87,12 @@ a white background and paintings in red ochre. These</h6>
 
 
 <h6>paintings belong to late historical, early
-historical 
-<img height="450" width="350" align="right" src="https://indiaheritagesites.wordpress.com/wp-content/uploads/2014/07/4242851285_5d4b5a06e8_z.jpg">
-and Neolithic periods. The subjects
-depicted are<br> bulls,elephants, sambhars,
+historical and Neolithic periods. The subjects
+depicted are bulls,elephants, sambhars,
 gazelles, sheep, goats,horses, stylised
-humans, tridents, but rarely,<br>   vegetal motifs.
+humans, tridents, but rarely,vegetal motifs.
 But the  richest paintings are reported from
-the Vindhya ranges of Madhya Pradesh<br> and
+the Vindhya ranges of Madhya Pradesh and
 their Kaimurean extensions into Uttar
 Pradesh. These hill ranges are full of
 Palaeolithic <br> and Mesolithic remains, and they
@@ -141,10 +139,10 @@ ourselves here only to the first three phases.
 
 <h6>The paintings of the Upper Palaeolithic phase
 are linear representations, in green and dark
-red, of huge animal figures, <br> such as bisons,
+red, of huge animal figures, such as bisons,
 elephants, tigers, rhinos and boars besides
 stick-like human figures. A few are wash
-nonepaintings but<br> mostly they are filled with</h6>
+nonepaintings but mostly they are filled with</h6>
 
 
 <h6>geometric patterns.  The green paintings are of dancers
@@ -267,7 +265,7 @@ animals difficult to find or kill.
 <br>
 <hr>
 <center> <h6> <mark> Hunting Scene </mark> </h6> </center>
-<center> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAwAToQJ-J1VSALRcSiLmcntGTDHpUMLxNzA&s"> </center>
+<center> <img width="500" height="450" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAwAToQJ-J1VSALRcSiLmcntGTDHpUMLxNzA&s"> </center>
 <center> <h6> Hunting scenes predominate in Mesolithic paintings. This is one such scene
 where a group of people are shown hunting a bison.  Some injured men are
 depicted lying scattered on the ground. These paintings show mastery in the
