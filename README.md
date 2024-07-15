@@ -267,22 +267,22 @@ animals difficult to find or kill.
 </h6></button>
 <br>
 <hr>
-<center><h6> <mark> Hunting Scene </mark> </h6></center>
-<center><img height="450" width="500" " src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAwAToQJ-J1VSALRcSiLmcntGTDHpUMLxNzA&s"></center>
-<center><h6> Hunting scenes predominate in Mesolithic paintings. This is one such scene
+<center> <h6> <mark> Hunting Scene </mark> </h6> </center>
+<center> <img width="500" height="450" " src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAwAToQJ-J1VSALRcSiLmcntGTDHpUMLxNzA&s"> </center>
+<center> <h6> Hunting scenes predominate in Mesolithic paintings. This is one such scene
 where a group of people are shown hunting a bison.  Some injured men are
 depicted lying scattered on the ground. These paintings show mastery in the
-skill of drawing these forms.</h6></center>
+skill of drawing these forms.</h6> </center>
 
 <br>
 <hr>
 
-<center><h6> <mark> Dancing Scene </mark></h6></center>
- <center><img width="500" height="450" src="https://thoroughknowledge.wordpress.com/wp-content/uploads/2013/06/bhimbetka-white-dancers.jpg"></center>
+<center> <h6> <mark> Dancing Scene </mark></h6> </center>
+ <center> <img width="500" height="450" src="https://thoroughknowledge.wordpress.com/wp-content/uploads/2013/06/bhimbetka-white-dancers.jpg"> </center>
  
-<center><h6> In this picture hand-linked figures in dancing mode are shown. In fact, this is a
+<center> <h6> In this picture hand-linked figures in dancing mode are shown. In fact, this is a
 recurrent theme. It also recalls the dancing scene from the Lakhudiyar rock
-painting found in Uttarakhand.</h6></center>
+painting found in Uttarakhand.</h6> </center>
 <br>
 <hr>
 
@@ -312,17 +312,16 @@ beings of this period left behind.</h6></center>
 
 
 
-
 <h2><button><mark>Made By Ansh Srivastava</mark> <button> <a  href="https://www.instagram.com/anshsrivastava589?igsh=dDI5Z3VpNjQ3M3pr"> : </a>
 </button>
  </button></h2>
 
-<center><a href="https://www.instagram.com/anshsrivastava589?igsh=dDI5Z3VpNjQ3M3pr"
+<center> <a href="https://www.instagram.com/anshsrivastava589?igsh=dDI5Z3VpNjQ3M3pr"
 > <h6>Instagram </h6> </a></center>
 
-<center><a  href="https://www.snapchat.com/add/it_ansh21?share_id=yOhry2oVI98&locale=en-US"> <h6>Snapchat</h6> </a></center>
+<center> <a href="https://www.snapchat.com/add/it_ansh21?share_id=yOhry2oVI98&locale=en-US"> <h6>Snapchat</h6> </a></center>
 
-<center> <a href="mailto:anshlala4@gmail.com"><h6>  Gmail</h6> </a></center>
+<center> <a href="mailto:anshlala4@gmail.com"><h6> Gmail</h6> </a></center>
 
     
 
