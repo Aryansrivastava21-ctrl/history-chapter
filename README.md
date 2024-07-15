@@ -7,7 +7,7 @@
 
 <h4>THE</h4>
  <h6>  distant past when there was no paper or language
-or the written word, and hence no books or <br></h6>
+or the written word, and hence no books or </h6>
 
 <img width="370" height="495" align="right" src="https://as1.ftcdn.net/v2/jpg/00/95/41/12/1000_F_95411298_zEUcXlqtowRmpib1OO0rKgbpE1ulZRSO.jpg">
 <h6>written documents, is called prehistory or as we often say,
@@ -173,17 +173,17 @@ adorned with elaborate head-dresses,
  and<br> sometimes
 painted with masks also. Elephant, bison, tiger, boar, deer,
 antelope, leopard, panther,<br> rhinoceros, fish, frog, lizard,
-squirrel and at times birds are also depicted. <br> The
+squirrel and at times birds are also depicted.<br> The
 Mesolithic artists loved to paint animals. In some pictures,
-animals are chasing men. <br>In others they are being chased
+animals are chasing men.In others they are being chased
 and hunted by men. Some of the animal paintings,
-especially in<br> the hunting scenes, show a fear of animals,
+especially in the hunting scenes, show a fear of animals,
 but many others show a feeling of tenderness and love
-for them.<br> There are also a few engravings representing
+for them.br> There are also a few engravings representing
 mainly animals.
 </p></h6>
 
-<img align="left" src="https://pwonlyias.com/wp-content/uploads/2023/12/image-2023-12-20t173402-286.webp">
+<img align<="left" src="https://pwonlyias.com/wp-content/uploads/2023/12/image-2023-12-20t173402-286.webp">
 <h6>  Though animals were painted in a naturalistic style,
 humans were depicted only in a stylistic manner. Women<br>
 are painted both in the nude and clothed. The young and
@@ -268,7 +268,7 @@ animals difficult to find or kill.
 <br>
 <hr>
 <center> <h6> <mark> Hunting Scene </mark> </h6> </center>
-<center> <img width="500" height="450" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAwAToQJ-J1VSALRcSiLmcntGTDHpUMLxNzA&s"> </center>
+<center> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAwAToQJ-J1VSALRcSiLmcntGTDHpUMLxNzA&s"> </center>
 <center> <h6> Hunting scenes predominate in Mesolithic paintings. This is one such scene
 where a group of people are shown hunting a bison.  Some injured men are
 depicted lying scattered on the ground. These paintings show mastery in the
