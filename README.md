@@ -268,7 +268,7 @@ animals difficult to find or kill.
 <br>
 <hr>
 <center> <h6> <mark> Hunting Scene </mark> </h6> </center>
-<center> <img width="500" height="450" " src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAwAToQJ-J1VSALRcSiLmcntGTDHpUMLxNzA&s"> </center>
+<center> <img width="500" height="450" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAwAToQJ-J1VSALRcSiLmcntGTDHpUMLxNzA&s"> </center>
 <center> <h6> Hunting scenes predominate in Mesolithic paintings. This is one such scene
 where a group of people are shown hunting a bison.  Some injured men are
 depicted lying scattered on the ground. These paintings show mastery in the
