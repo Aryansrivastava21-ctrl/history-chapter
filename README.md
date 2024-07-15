@@ -95,23 +95,22 @@ But the  richest paintings are reported from
 the Vindhya ranges of Madhya Pradesh and
 their Kaimurean extensions into Uttar
 Pradesh. These hill ranges are full of
-Palaeolithic <br> and Mesolithic remains, and they
+Palaeolithic and Mesolithic remains, and they
 are also full of forests, wild plants, fruits,
-streams and creeks,<br> thus a perfect place for
+streams and creeks, thus a perfect place for
 Stone Age people to live. Among these the
-largest and most spectacular<br> rock-shelter is
+largest and most spectacular rock-shelter is
 located in the Vindhya hills at Bhimbetka in
-Madhya Pradesh. Bhimbetka is<br> located fortyfive kilometres south of Bhopal, in an area of
-ten square kilometres, having <br>about eight
+Madhya Pradesh. Bhimbetka is located fortyfive 
+kilometres south of Bhopal, in an area of
+ten square kilometres, having about eight
 hundred rock shelters, five hundred of which
-bear painting
-The caves of Bhimbetka <br> were discovered
+bear paintingThe caves of Bhimbetka were discovered
 in 1957–58 by eminent archaeologist V.S.
-Wakankar and later on many more were<br>
+Wakankar and later on many more were
 discovered. Wakankar spent several years in
 surveying these inaccessible hills and jungles
 to study<br> these paintings.</h6>
-<br>
 <hr>
 <br>
 <h6>The themes of paintings found here are of great variety,
@@ -180,7 +179,7 @@ for them.br> There are also a few engravings representing
 mainly animals.
 </p></h6>
 
-<img align<="left" src="https://pwonlyias.com/wp-content/uploads/2023/12/image-2023-12-20t173402-286.webp">
+<img align="left" src="https://pwonlyias.com/wp-content/uploads/2023/12/image-2023-12-20t173402-286.webp">
 <h6>  Though animals were painted in a naturalistic style,
 humans were depicted only in a stylistic manner. Women<br>
 are painted both in the nude and clothed. The young and
