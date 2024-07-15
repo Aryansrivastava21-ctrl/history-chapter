@@ -181,13 +181,13 @@ mainly animals.
 
 <img align="left" src="https://pwonlyias.com/wp-content/uploads/2023/12/image-2023-12-20t173402-286.webp">
 <h6>  Though animals were painted in a naturalistic style,
-humans were depicted only in a stylistic manner. Women<br>
-are painted both in the nude and clothed. The young and
-the old equally find place in these paintings. Children<br> are
+humans were depicted only in a stylistic manner. Women
+ are painted both in the nude and clothed. The young and
+the old equally find place in these paintings. Children are
 painted running, jumping and playing. Community dances
-provide a common theme. There are paintings <br> of people
+provide a common theme. There are paintings of people
 gathering fruit or honey from trees, and of women grinding
-and preparing food. Some of the pictures <br>of men, women
+and preparing food. Some of the pictures of men, women
 and children seem to depict a sort of family life. In many</h6>
 
 
