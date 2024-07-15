@@ -316,8 +316,7 @@ beings of this period left behind.</h6></center>
 </button>
  </button></h2>
 
-<a align="middle" href="https://www.instagram.com/anshsrivastava589?igsh=dDI5Z3VpNjQ3M3pr"
-> <h6>Instagram </h6> </a>
+<a align="right" href="https://www.instagram.com/anshsrivastava589?igsh=dDI5Z3VpNjQ3M3pr"> <h6>Instagram </h6> </a>
 
 <center> <a href="https://www.snapchat.com/add/it_ansh21?share_id=yOhry2oVI98&locale=en-US"> <h6>Snapchat</h6> </a></center>
 
