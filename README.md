@@ -7,10 +7,9 @@
 
 <h4>THE</h4>
  <h6>  distant past when there was no paper or language
-or the written word, and hence no books or </h6>
-
+or the written word, and hence no books or
 <img width="370" height="495" align="right" src="https://as1.ftcdn.net/v2/jpg/00/95/41/12/1000_F_95411298_zEUcXlqtowRmpib1OO0rKgbpE1ulZRSO.jpg">
-<h6>written documents, is called prehistory or as we often say,
+written documents, is called prehistory or as we often say,
 prehistoric times. How people <br>lived in those times was
 difficult to surmise until scholars began to discover the
 places where prehistoric people lived. Excavation at these
@@ -24,7 +23,7 @@ the basic needs of food, water, clothing and shelter were
 fulfilled people felt the need to express themselves. Painting
 and drawing were the oldest art forms practised by human 
 beings  to express themselves, using the cave walls as their
-canvas.</p> </h6>
+canvas. </h6>
 
 <h6><p>Why did prehistoric people draw these pictures? They
 may have drawn and the painted to make their shelters more
@@ -84,7 +83,7 @@ and Tekkalkota. Three<br> types of paintings have been reported
 from here—paintings in white,<br> paintings in red ochre over
 a white background and paintings in red ochre. These</h6>
 <br>
-<img  align="" height="300" width="500" src="https://pwonlyias.com/wp-content/uploads/2023/12/8-3.webp">
+<img  align="left" height="300" width="500" src="https://pwonlyias.com/wp-content/uploads/2023/12/8-3.webp">
 
 
 <h6>paintings belong to late historical, early
